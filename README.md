@@ -74,4 +74,4 @@ If you find this useful in your research, please consider citing:
 	author={Chuanyi Zhang, Yazhou Yao, Jiachao Zhang, Jiaxin Chen, Pu Huang, Jian Zhang, Zhenmin Tang},
 	booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
 	year={2020}
-}
+	}
