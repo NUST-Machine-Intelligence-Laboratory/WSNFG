@@ -1,8 +1,8 @@
-# Web-Supervised Network with Smooth Labeling for Fine-Grained Visual Classification
+# Web-Supervised Network for Fine-Grained Visual Classification
 
 Introduction
 ------------
-This is the source code for our paper **Web-Supervised Network with Smooth Labeling for Fine-Grained Visual Classification**
+This is the source code for our paper **Web-Supervised Network for Fine-Grained Visual Classification**
 
 Network Architecture
 --------------------
