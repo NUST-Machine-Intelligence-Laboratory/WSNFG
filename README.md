@@ -64,3 +64,14 @@ The code is currently tested only on GPU
        bash run_train_resnet.sh
        ```
     - We recommend you use Resnet model, because it's easier to train. Resnet-18 shows similar performance with BCNN but needs much less time to train. Resnet-50 has better performance. If you want to train the BCNN model, use ``` run_train_bcnn.sh```. 
+    
+## Citation
+
+If you find this useful in your research, please consider citing:
+
+    @inproceedings{zhang2020web,
+	title={Web-Supervised Network for Fine-Grained Visual Classification},
+	author={Chuanyi Zhang, Yazhou Yao, Jiachao Zhang, Jiaxin Chen, Pu Huang, Jian Zhang, Zhenmin Tang},
+	booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
+	year={2020}
+}
