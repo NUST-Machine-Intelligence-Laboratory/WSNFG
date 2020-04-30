@@ -6,7 +6,7 @@ This is the source code for our paper **Web-Supervised Network for Fine-Grained 
 
 Network Architecture
 --------------------
-The architecture of our proposed peer-learning model is as follows
+The architecture of our proposed model is as follows
 ![network](network.png)
 
 Installation
